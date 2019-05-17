@@ -8,6 +8,6 @@ Power of thy sword!
 
 What else do you need?
 
-### my history
+### My History
 
 To be honest, I'm having some trouble remembering right now..
