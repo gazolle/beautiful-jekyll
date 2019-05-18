@@ -4,10 +4,7 @@ title: About me
 
 ---
 
-Power of thy sword!
+Adventurous; curious and yet cautious, I grasp every moment and live life at the fullest.
 
-What else do you need?
+I look forward to fullfill my journey in cyber security, currently working as a SOC analyst for a Canadian teleco.
 
-### My History
-
-To be honest, I'm having some trouble remembering right now..
