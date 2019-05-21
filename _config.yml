@@ -24,11 +24,7 @@ description: 3 Ball; 2 Strike
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  Write-Ups: "writeups"
-  Wiki: "wiki"
-    
+   
    
 
 
